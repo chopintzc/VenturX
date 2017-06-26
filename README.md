@@ -12,7 +12,7 @@ This program requires WordPress and WAMP
 ## **Features**
 * use WordPress widget to manage website content dynamically
 
-The user interface looks like below:
+* The user interface looks like below:
 
 ![alt text](images/VenturX.png)
 
